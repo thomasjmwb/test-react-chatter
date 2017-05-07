@@ -3,10 +3,15 @@ React single page app using react-router-dom + firebase
 available on https://warm-cliffs-20052.herokuapp.com/
 
 todo:
+
 authentication
+
 routing fix (cant refresh)
+
 make it prettyier
+
 password protected rooms?
+
 
 
 
