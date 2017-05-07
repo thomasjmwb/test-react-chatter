@@ -1,3 +1,24 @@
+React single page app using react-router-dom + firebase
+
+available on https://warm-cliffs-20052.herokuapp.com/
+
+todo:
+authentication
+routing fix (cant refresh)
+make it prettyier
+password protected rooms?
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
